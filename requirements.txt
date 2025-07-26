@@ -1,1 +1,10 @@
-streamlit 
+streamlit
+fastapi
+uvicorn
+nfl-data-py
+pandas
+numpy
+scikit-learn
+pydantic
+requests
+# ollama  # Optional - only needed for local AI chat features 
